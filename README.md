@@ -1,5 +1,7 @@
 # book-app
 
+#latihan vue js
+
 ## Project setup
 ```
 yarn install
